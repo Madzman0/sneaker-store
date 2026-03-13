@@ -127,7 +127,7 @@ export default function FeaturedCampaign() {
           </div>
           <p className="max-w-xl text-sm text-zinc-600 transition-colors duration-300 dark:text-white/65">
             Each edit frames the product through a mood, a setting, and a pace,
-            giving AUREL a more journal-like retail language.
+            giving KIXORA a more journal-like retail language.
           </p>
         </div>
 

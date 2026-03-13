@@ -79,7 +79,7 @@ function CheckoutExperience({ closeCheckout }) {
             <p className="mt-3 max-w-md text-sm text-zinc-600 dark:text-white/62">
               {isSuccess
                 ? 'Your order reference is ready and your selected pairs have been reserved for this session.'
-                : 'Complete your shipping details to review the AUREL checkout experience and confirm your order summary.'}
+                : 'Complete your shipping details to review the KIXORA checkout experience and confirm your order summary.'}
             </p>
           </div>
 
@@ -171,7 +171,7 @@ function CheckoutExperience({ closeCheckout }) {
                 value={form.email}
                 onChange={handleChange}
                 className="mt-2 h-12 w-full rounded-2xl border border-zinc-200 bg-white/85 px-4 text-sm text-zinc-900 outline-none transition-colors focus:border-amber-400 dark:border-white/12 dark:bg-white/5 dark:text-white"
-                placeholder="collector@aurel.com"
+                placeholder="collector@kixora.com"
               />
             </label>
 

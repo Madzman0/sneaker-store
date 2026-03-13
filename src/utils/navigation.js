@@ -1,4 +1,4 @@
-const NAVIGATION_EVENT = 'aurel:navigate';
+const NAVIGATION_EVENT = 'kixora:navigate';
 
 export function navigateTo(path) {
   if (typeof window === 'undefined') return;

@@ -1,7 +1,7 @@
 function SkeletonBlock({ className = '' }) {
   return (
     <div
-      className={`aurel-skeleton aurel-shimmer rounded-[1.25rem] ${className}`}
+      className={`kixora-skeleton kixora-shimmer rounded-[1.25rem] ${className}`}
     />
   );
 }

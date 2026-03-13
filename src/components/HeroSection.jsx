@@ -82,7 +82,7 @@ export default function HeroSection() {
       <div className="relative mx-auto flex max-w-6xl flex-col gap-10 px-4 py-12 sm:px-6 sm:py-14 md:flex-row md:items-center md:gap-12 md:py-20">
         <div className="flex-1 space-y-7">
           <p className="text-xs font-semibold uppercase tracking-[0.3em] text-amber-500 dark:text-amber-300">
-            AUREL / Sneaker Atelier
+            KIXORA / Sneaker Atelier
           </p>
 
           <h1 className="text-[2.45rem] font-extrabold tracking-tight text-zinc-950 sm:text-5xl md:text-[3.4rem] md:leading-[1.05] dark:text-white">
@@ -91,7 +91,7 @@ export default function HeroSection() {
           </h1>
 
           <p className="max-w-xl text-sm text-zinc-600 transition-colors duration-300 md:text-base dark:text-white/75">
-            AUREL curates limited-run silhouettes, studio collaborations, and
+            KIXORA curates limited-run silhouettes, studio collaborations, and
             future icons, authenticated, archived, and delivered with
             museum-grade care for modern collectors.
           </p>

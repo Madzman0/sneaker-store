@@ -1,7 +1,7 @@
 @import "tailwindcss";
 @custom-variant dark (&:where(.dark, .dark *));
 
-/* AUREL global polish */
+/* KIXORA global polish */
 html,
 body,
 #root {
@@ -32,7 +32,7 @@ button {
   cursor: pointer;
 }
 
-.aurel-skeleton {
+.kixora-skeleton {
   position: relative;
   overflow: hidden;
   background: linear-gradient(
@@ -42,7 +42,7 @@ button {
   );
 }
 
-html.dark .aurel-skeleton {
+html.dark .kixora-skeleton {
   background: linear-gradient(
     180deg,
     rgba(39, 39, 42, 0.92),
@@ -50,7 +50,7 @@ html.dark .aurel-skeleton {
   );
 }
 
-.aurel-shimmer::after {
+.kixora-shimmer::after {
   content: "";
   position: absolute;
   inset: 0;
@@ -61,10 +61,10 @@ html.dark .aurel-skeleton {
     rgba(255, 255, 255, 0.42),
     transparent
   );
-  animation: aurelShimmer 1.8s ease-in-out infinite;
+  animation: kixoraShimmer 1.8s ease-in-out infinite;
 }
 
-html.dark .aurel-shimmer::after {
+html.dark .kixora-shimmer::after {
   background: linear-gradient(
     90deg,
     transparent,
@@ -85,7 +85,7 @@ html.dark .aurel-shimmer::after {
   }
 }
 
-@keyframes aurelShimmer {
+@keyframes kixoraShimmer {
   100% {
     transform: translateX(100%);
   }

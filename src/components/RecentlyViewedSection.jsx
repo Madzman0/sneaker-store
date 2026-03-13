@@ -30,7 +30,7 @@ export default function RecentlyViewedSection({ currentProductId }) {
             </h2>
             <p className="mt-3 text-sm text-zinc-600 dark:text-white/62">
               A private viewing rail for the silhouettes you opened most recently,
-              kept locally on this device for a smoother AUREL browsing flow.
+              kept locally on this device for a smoother KIXORA browsing flow.
             </p>
           </div>
 

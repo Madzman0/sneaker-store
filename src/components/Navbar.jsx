@@ -224,7 +224,7 @@ export default function Navbar() {
           </div>
           <div className="leading-tight">
             <div className="text-[10px] font-extrabold uppercase tracking-[0.34em] sm:text-[11px] sm:tracking-[0.4em]">
-              AUREL
+              KIXORA
             </div>
             <div className="hidden text-[10px] font-medium uppercase tracking-[0.22em] text-zinc-500 transition-colors duration-300 dark:text-white/50 sm:block">
               Sneaker Atelier

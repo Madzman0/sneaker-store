@@ -465,7 +465,7 @@ export default function ProductDetailsPage({ productId }) {
               This pair has moved out of the current selection.
             </h1>
             <p className="mt-4 text-sm leading-7 text-zinc-600 dark:text-white/62">
-              Return to the AUREL archive and continue exploring the current rotation.
+              Return to the KIXORA archive and continue exploring the current rotation.
             </p>
             <button
               type="button"

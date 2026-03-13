@@ -62,7 +62,7 @@ export default function CartDrawer() {
               Your cart is empty
             </h3>
             <p className="mt-3 max-w-sm text-sm text-zinc-500 dark:text-white/60">
-              Add a few AUREL selections and they will appear here with a live
+              Add a few KIXORA selections and they will appear here with a live
               subtotal and adjustable quantities.
             </p>
           </div>

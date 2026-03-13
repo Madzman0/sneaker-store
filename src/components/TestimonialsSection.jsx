@@ -3,7 +3,7 @@ const testimonials = [
     name: 'Mara K.',
     role: 'Creative Director & Collector',
     quote:
-      'AUREL feels more like an art advisory than a sneaker store. Every pair arrives like a gallery piece.',
+      'KIXORA feels more like an art advisory than a sneaker store. Every pair arrives like a gallery piece.',
     rating: 5,
   },
   {
@@ -39,7 +39,7 @@ export default function TestimonialsSection() {
             </h2>
           </div>
           <p className="max-w-md text-sm text-zinc-600 transition-colors duration-300 dark:text-white/70">
-            Curators, archivists, and long-time collectors choose AUREL for the
+            Curators, archivists, and long-time collectors choose KIXORA for the
             details, provenance, condition, and care at every step.
           </p>
         </div>

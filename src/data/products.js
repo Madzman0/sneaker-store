@@ -21,7 +21,7 @@ export const products = [
     ],
     image:
       'https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=80',
-    tag: 'AUREL x Studio Lumen',
+    tag: 'KIXORA x Studio Lumen',
     description:
       'A collector-first runner built with sculpted volume, luminous paneling, and a gallery-minded finish that balances performance energy with studio restraint.',
     colors: [
@@ -203,7 +203,7 @@ export const products = [
       'https://images.unsplash.com/photo-1600269452121-4f2416e55c28?auto=format&fit=crop&w=1200&q=80',
     tag: 'Track Edition',
     description:
-      'A precision-tuned performance pair that mixes technical underpinnings with AUREL styling, giving the silhouette speed, presence, and premium material contrast.',
+      'A precision-tuned performance pair that mixes technical underpinnings with KIXORA styling, giving the silhouette speed, presence, and premium material contrast.',
     colors: [
       { name: 'Track White', swatch: '#fafaf9' },
       { name: 'Velocity Blue', swatch: '#2563eb' },

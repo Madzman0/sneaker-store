@@ -5,7 +5,7 @@ import { useStoreUI } from '../context/StoreUIContext.jsx';
 const toneStyles = {
   default: {
     icon: ShoppingBag,
-    label: 'AUREL',
+    label: 'KIXORA',
     classes:
       'border-zinc-200/90 bg-white/90 text-zinc-700 shadow-[0_18px_45px_rgba(15,23,42,0.14)] dark:border-white/10 dark:bg-zinc-950/90 dark:text-white/80 dark:shadow-[0_22px_50px_rgba(0,0,0,0.45)]',
     chip:

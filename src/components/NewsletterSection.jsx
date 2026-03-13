@@ -28,7 +28,7 @@ export default function NewsletterSection() {
             <div className="flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
               <div className="max-w-xl space-y-3">
                 <p className="text-[11px] font-semibold uppercase tracking-[0.3em] text-amber-500 dark:text-amber-400">
-                  AUREL Brief
+                  KIXORA Brief
                 </p>
                 <h2 className="text-[1.8rem] font-semibold tracking-tight text-zinc-950 md:text-3xl dark:text-white">
                   Be first in line for the next drop.
